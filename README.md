@@ -14,7 +14,7 @@ This project demonstrates how to containerise a simple Node.js application using
 - I created a basic Node.js application using Express.js
 - The app listens on port 3000 and returns a simple message to the user
 
-### 2. Dockerized the Node.js App
+### 2. Dockerised the Node.js App
 - I used the `node:alpine` Docker image as a base to minimise the size of the Docker image.
 - The Dockerfile was written to:
   - Set the working directory inside the container to `/app`.
@@ -40,5 +40,5 @@ This project demonstrates how to containerise a simple Node.js application using
 ![Screenshot 2025-03-12 162950](https://github.com/user-attachments/assets/d981503d-a735-47e7-91ad-8f7412a25d8f)
 
 ## 5. Conclusion
-This proeject demonstrated how to containerise a Node.js application with Docker. Dockorising your app ensures consistency when ran on different environments, makng deployment faster and eaiser.
+- This project demonstrated how to containerise a Node.js application with Docker. Dockorising your app ensures consistency when run on different environments, making deployment faster and easier.
 
