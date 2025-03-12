@@ -35,3 +35,6 @@ This project demonstrates how to containerise a simple Node.js application using
 
 ### 4. Access the App
 - To verify that it worked, I navigated to http://localhost:3000 via microsoft edge and got the output "Hello from Node.js!"
+
+  
+![Screenshot 2025-03-12 162950](https://github.com/user-attachments/assets/d981503d-a735-47e7-91ad-8f7412a25d8f)
