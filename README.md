@@ -1,6 +1,6 @@
 # Dockerised Node.js App
 
-This project demonstrates how to containerise a simple Node.js application using Docker. The app is built using Express.js and is designed to be run inside a Docker container for easy deployment and portability.
+This project demonstrates how to containerise a simple Node.js application using Docker. The app is built using Express.js and is designed to be run inside a Docker container
 
 ## What This Project Does
 
